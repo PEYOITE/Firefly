@@ -9,10 +9,10 @@ export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.avif",
 
 	// 名字
-	name: "Firefly",
+	name: "Peyoite",
 
 	// 个人签名
-	bio: "Hello, I'm Firefly.",
+	bio: "我们所度过的每个平凡的日常，也许就是连续发生的奇迹。",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
@@ -29,25 +29,25 @@ export const profileConfig: ProfileConfig = {
 		},
 		{
 			name: "Steam",
-			icon: "fa7-brands:steam",
+			icon: "simple-icons:steam",
 			url: "https://steamcommunity.com/id/Peyoite/",
 			showName: false,
 		},
 		{
 			name: "GitHub",
-			icon: "fa7-brands:github",
+			icon: "simple-icons:github",
 			url: "https://github.com/PEYOITE",
 			showName: false,
 		},
 		{
 			name: "Email",
-			icon: "fa7-solid:envelope",
+			icon: "simple-icons:email",
 			url: "peyoite223@outlook.com",
-			showName: true,
+			showName: false,
 		},
 		{
 			name: "RSS",
-			icon: "fa7-solid:rss",
+			icon: "simple-icons:rss",
 			url: "/rss/",
 			showName: false,
 		},
