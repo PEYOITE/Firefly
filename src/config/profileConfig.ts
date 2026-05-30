@@ -6,7 +6,7 @@ export const profileConfig: ProfileConfig = {
 	// 1. public 目录（以 "/" 开头，不优化）："/assets/images/avatar.webp"
 	// 2. src 目录（不以 "/" 开头，自动优化但会增加构建时间，推荐）："assets/images/avatar.webp"
 	// 3. 远程 URL："https://example.com/avatar.jpg"
-	avatar: "https://cloudflare-imgbed.3539279653.workers.dev/file/img/1780081981246_b_99712cec5900f41898cacf475fc6b6fa.jpg",
+	avatar: "assets/images/touxiang.webp",
 
 	// 名字
 	name: "Peyoite",
@@ -37,12 +37,6 @@ export const profileConfig: ProfileConfig = {
 			name: "GitHub",
 			icon: "simple-icons:github",
 			url: "https://github.com/PEYOITE",
-			showName: false,
-		},
-		{
-			name: "Email",
-			icon: "mdi:email",
-			url: "peyoite223@outlook.com",
 			showName: false,
 		},
 		{
