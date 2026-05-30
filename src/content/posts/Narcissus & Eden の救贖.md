@@ -6,7 +6,7 @@ tags: [小作文, 拙见, 思考]
 category: Kosakubun
 image: /assets/images/posts/cover.webp
 draft: false
-pinned: ture
+pinned: true
 ---
 
 # 救贖 Ⅰ
